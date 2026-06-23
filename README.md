@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" style="padding-top: 12px;">
 
 # 👋 HI THERE ! , I'M INBASEKARAN
 
@@ -6,7 +6,11 @@
 
 </div>
 
-<div align="center" style="margin: 16px 0;">
+<div align="center" style="margin: 10px 0 20px; color:#8b949e; font-size:0.95rem; max-width:780px;">
+Crafting premium AI systems, scalable full-stack platforms, and intelligent product experiences.
+</div>
+
+<div align="center" style="margin: 14px 0 20px;">
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:in5904@srmist.edu.in)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/inbasekaran)
