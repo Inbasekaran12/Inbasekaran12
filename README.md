@@ -1,12 +1,12 @@
 <div align="center">
 
-# 👋 Hi there! I'm INBASEKRAN ;
+# 👋 HI THERE ! , I'M INBASEKARAN
 
-![Hero](https://readme-typing-svg.herokuapp.com?font=Garamond&pause=1000&color=FFDE00&center=true&vCenter=true&width=760&lines=AI+Developer+%7C+AI+Engineer+%7C+AI+Generalist+%7C+Full+Stack+Developer)
+**AI DEVELOPER | AI ENGINEER | AI GENERALIST | FULL STACK DEVELOPER**
 
 </div>
 
-<div align="center">
+<div align="center" style="margin: 16px 0;">
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:in5904@srmist.edu.in)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/inbasekaran)
@@ -15,7 +15,7 @@
 
 </div>
 
-<div align="center">
+<div align="center" style="margin-bottom: 24px;">
 
 [![Brick-1](https://img.shields.io/badge/Brick%201-Innovate-FF0000?style=for-the-badge&logo=lego&logoColor=white)]
 [![Brick-2](https://img.shields.io/badge/Brick%202-Engineered-0055A4?style=for-the-badge&logo=lego&logoColor=white)]
@@ -28,13 +28,13 @@
 
 ## 🎯 About Me
 
-> I craft enterprise-grade AI, healthcare, and blockchain products with a premium focus on performance, security, and real-world impact.
+> I build premium AI products and full-stack solutions with modern cloud architecture, strong security, and human-centered design.
 >
-> My work blends intelligent automation, cloud-native architecture, and trusted engineering to deliver market-ready solutions.
+> I solve real-world challenges in healthcare, blockchain, and enterprise systems with practical AI and scalable engineering.
 >
-> `AI · Cloud-native Architecture · Secure Systems · Smart Healthcare · Blockchain Security`
+> `AI · Cloud-native Systems · Secure Architecture · Intelligent Automation · Product-led Delivery`
 
-<div align="center">
+<div align="center" style="margin: 16px 0;">
 
 [![Premium Impact](https://img.shields.io/badge/Premium%20Impact-High%20Value-5A31F4?style=for-the-badge&logo=google-chrome&logoColor=white)]
 [![Secure](https://img.shields.io/badge/Secure-Enterprise%20Ready-00A3E0?style=for-the-badge&logo=lock&logoColor=white)]
@@ -42,8 +42,6 @@
 [![Design](https://img.shields.io/badge/Design-UX%20Driven-FCA311?style=for-the-badge&logo=figma&logoColor=white)]
 
 </div>
-
----
 
 ---
 
