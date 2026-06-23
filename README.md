@@ -1,30 +1,28 @@
-<div align="center" style="padding-top: 12px;">
+<div align="center" style="background:#0d1117;border:1px solid #30363d;border-radius:28px;padding:28px 24px;margin-bottom:24px;max-width:980px;">
 
-# 👋 HI THERE ! , I'M INBASEKARAN
+<h1 style="margin:0;color:#f0f6fc;font-size:2.4rem;line-height:1.05;">👋 HI THERE ! , I'M INBASEKARAN</h1>
 
-**AI DEVELOPER | AI ENGINEER | AI GENERALIST | FULL STACK DEVELOPER**
+<p style="margin:12px auto 0;color:#8b949e;font-size:1rem;letter-spacing:0.12em;max-width:640px;">
+<strong style="color:#ffffff;">AI DEVELOPER</strong> | AI ENGINEER | AI GENERALIST | FULL STACK DEVELOPER
+</p>
 
-</div>
-
-<div align="center" style="margin: 10px 0 20px; color:#8b949e; font-size:0.95rem; max-width:780px;">
+<p style="margin:18px auto 0;color:#c9d1d9;font-size:1rem;max-width:700px;line-height:1.7;">
 Crafting premium AI systems, scalable full-stack platforms, and intelligent product experiences.
-</div>
+</p>
 
-<div align="center" style="margin: 14px 0 20px;">
-
+<div style="margin:24px auto 0;display:flex;justify-content:center;flex-wrap:wrap;gap:10px;max-width:760px;">
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:in5904@srmist.edu.in)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/inbasekaran)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Inbasekaran12)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Inbasekaran12)
-
 </div>
 
-<div align="center" style="margin-bottom: 24px;">
-
+<div style="margin:24px auto 0;display:flex;justify-content:center;flex-wrap:wrap;gap:10px;max-width:760px;">
 [![Brick-1](https://img.shields.io/badge/Brick%201-Innovate-FF0000?style=for-the-badge&logo=lego&logoColor=white)]
 [![Brick-2](https://img.shields.io/badge/Brick%202-Engineered-0055A4?style=for-the-badge&logo=lego&logoColor=white)]
 [![Brick-3](https://img.shields.io/badge/Brick%203-Scaled-FFD500?style=for-the-badge&logo=lego&logoColor=black)]
 [![Brick-4](https://img.shields.io/badge/Brick%204-Trusted-009639?style=for-the-badge&logo=lego&logoColor=white)]
+</div>
 
 </div>
 
