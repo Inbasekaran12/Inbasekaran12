@@ -1,7 +1,11 @@
 # <div align="center">
-# 
+
+#
+
 # ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=👋+Hi+there!+I'm+INBASEKARAN+S;💻+Full-Stack+Developer;🤖+AI+%26+ML+Enthusiast;🏥+Healthcare+Tech+Expert;⛓️+Blockchain+Developer)
-# 
+
+#
+
 # </div>
 
 ---
@@ -11,7 +15,7 @@
 <div align="center">
 
 > **Debugging the future** 🔮 | Building intelligent, scalable full-stack applications that learn from their users
-> 
+>
 > High-scale, low-latency AI solutions | Healthcare Technology Innovator | Open Source Contributor
 
 </div>
@@ -31,16 +35,15 @@
 
 <div align="center">
 
-| Category | Skills |
-|----------|--------|
-| **Languages** | Java, Python, JavaScript, SQL, HTML, CSS |
-| **Backend** | Spring Boot, Spring MVC, RESTful APIs, Microservices |
-| **Frontend** | React, Vue.js, Bootstrap, Tailwind CSS |
-| **Databases** | MySQL, MongoDB, PostgreSQL, Firebase |
-| **AI/ML** | TensorFlow, PyTorch, Scikit-learn, NLP |
+| Category       | Skills                                        |
+| -------------- | --------------------------------------------- |
+| **Languages**  | Java, Python, JavaScript, SQL, HTML, CSS      |
+| **Backend**    | RESTful APIs, Microservices                   |
+| **Frontend**   | React, Vue.js, Bootstrap, Tailwind CSS        |
+| **Databases**  | MySQL, MongoDB, PostgreSQL, Firebase          |
+| **AI/ML**      | TensorFlow, PyTorch, Scikit-learn, NLP        |
 | **Blockchain** | Hyperledger Fabric, Ethereum, Smart Contracts |
-| **Cloud** | AWS, Azure, Google Cloud Platform |
-| **DevOps** | Docker, Kubernetes, Jenkins, CI/CD Pipelines |
+| **Cloud**      | AWS, Azure, Google Cloud Platform             |
 
 </div>
 
@@ -51,6 +54,7 @@
 <div align="center">
 
 ### Languages
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -59,13 +63,13 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Backend & Frameworks
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
 ### Frontend & UI
+
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -73,6 +77,7 @@
 ![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 
 ### Databases
+
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -80,6 +85,7 @@
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ### AI/ML & Data Science
+
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit%20Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -87,28 +93,17 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 ### Blockchain & Web3
+
 ![Hyperledger](https://img.shields.io/badge/Hyperledger-2F3DC4?style=for-the-badge&logo=hyperledger&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
 
-### Cloud & DevOps
+### Cloud
+
 ![AWS](https://img.shields.io/badge/Amazon%20AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-### Tools & Testing
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
@@ -133,6 +128,7 @@
 <div align="center">
 
 ### 🔗 [VENDOR-CHAIN---UROP](https://github.com/Inbasekaran12/VENDOR-CHAIN---UROP)
+
 **Hyperledger Fabric-based Supply Chain Security Framework**
 
 ```
@@ -149,6 +145,7 @@ VendorChain: Enterprise-grade blockchain solution for vendor partnerships
 ---
 
 ### 💊 [MEDITRACK](https://github.com/Inbasekaran12/MEDITRACK)
+
 **Intelligent Healthcare Management System**
 
 ```
@@ -166,6 +163,7 @@ Medicine Management Platform for Smart Healthcare
 ---
 
 ### 🚂 [TrainConsistManagementApp](https://github.com/Inbasekaran12/TrainConsistManagementApp)
+
 **Railway Management System**
 
 ```
@@ -182,6 +180,7 @@ Enterprise Train Management Application
 ---
 
 ### 📏 [Quantity_Measurement_App](https://github.com/Inbasekaran12/Quantity_Measurement_App)
+
 **Unit Measurement & Conversion Tool**
 
 ```
@@ -198,6 +197,7 @@ Advanced Quantity Measurement System
 ---
 
 ### 🏨 [Hotel_Booking_App](https://github.com/Inbasekaran12/Hotel_Booking_App)
+
 **Hotel Reservation System**
 
 ```
@@ -214,6 +214,7 @@ Full-Stack Hotel Booking Platform
 ---
 
 ### 🏥 [PalindromeCheckerApp](https://github.com/Inbasekaran12/PalindromeCheckerApp)
+
 **String Validation Utility**
 
 ```
@@ -259,7 +260,7 @@ Efficient Palindrome Detection System
 
 <div align="center">
 
-> ### *"Clean code is not written so that it can be read, but so that it can be understood."*
+> ### _"Clean code is not written so that it can be read, but so that it can be understood."_
 >
 > I believe in writing maintainable, scalable solutions that solve real-world problems while making a tangible difference in people's lives. Every line of code should tell a story of innovation and excellence.
 
@@ -273,30 +274,17 @@ Efficient Palindrome Detection System
 
 <div align="center">
 
-| 📧 Email | 🌍 Location | ⏰ Timezone | 💼 Looking For |
-|----------|-------------|-----------|-----------------|
+| 📧 Email                 | 🌍 Location        | ⏰ Timezone   | 💼 Looking For                     |
+| ------------------------ | ------------------ | ------------- | ---------------------------------- |
 | **in5904@srmist.edu.in** | **Chennai, India** | **UTC +5:30** | **Collaborations & Opportunities** |
 
 ### Open to:
+
 - 💬 Contributing to Open Source Projects
 - 🤝 Freelance & Contract Work
 - 👥 Team Collaborations
 - 📚 Knowledge Sharing & Mentoring
 - 🚀 Startup Opportunities
-
-</div>
-
----
-
-## 📚 Certifications & Learning
-
-<div align="center">
-
-- 🎓 Full-Stack Development Certification
-- 🤖 AI/ML Specialization
-- ⛓️ Blockchain & Smart Contracts
-- ☁️ Cloud Computing (AWS)
-- 🔐 Cybersecurity Fundamentals
 
 </div>
 
@@ -313,10 +301,9 @@ Efficient Palindrome Detection System
 ---
 
 <div align="center">
-  
-  **Made with ❤️ by INBASEKARAN S**
-  
-  *Last Updated: 2026* | *Active Developer* | *Always Learning* 🚀
-  
-</div>
 
+**Made with ❤️ by INBASEKARAN S**
+
+_Last Updated: 2026_ | _Active Developer_ | _Always Learning_ 🚀
+
+</div>
