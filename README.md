@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 Hi there! I'm INBASEKARAN S
+# 👋 Hi there! I'm INBASEKRAN ;
 
-![Hero](https://readme-typing-svg.herokuapp.com?font=Garamond&pause=1000&color=FFDE00&center=true&vCenter=true&width=760&lines=Premium+AI+%7C+Healthcare+Tech+%7C+Blockchain+Security)
+![Hero](https://readme-typing-svg.herokuapp.com?font=Garamond&pause=1000&color=FFDE00&center=true&vCenter=true&width=760&lines=AI+Developer+%7C+AI+Engineer+%7C+AI+Generalist+%7C+Full+Stack+Developer)
 
 </div>
 
