@@ -1,22 +1,6 @@
-# <div align="center">
-
-#
-
-# ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=👋+Hi+there!+I'm+INBASEKARAN+S;💻+Full-Stack+Developer;🤖+AI+%26+ML+Enthusiast;🏥+Healthcare+Tech+Expert;⛓️+Blockchain+Developer)
-
-#
-
-# </div>
-
----
-
-## 🎯 About Me
-
 <div align="center">
 
-> **Debugging the future** 🔮 | Building intelligent, scalable full-stack applications that learn from their users
->
-> High-scale, low-latency AI solutions | Healthcare Technology Innovator | Open Source Contributor
+# ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=760&lines=👋+Hi+there!+I'm+INBASEKARAN+S;💻+Full-Stack+Developer;🤖+AI+%26+ML+Enthusiast;🏥+Healthcare+Tech+Expert;⛓️+Blockchain+Developer)
 
 </div>
 
@@ -26,6 +10,35 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1c1c1c)](https://linkedin.com/in/inbasekaran)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=1c1c1c)](https://github.com/Inbasekaran12)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1c1c1c)](https://twitter.com/Inbasekaran12)
+
+</div>
+
+<div align="center" style="margin-top: 16px;">
+
+[![Signature](https://img.shields.io/badge/Signature-INBASEKARAN%20S-4B0082?style=for-the-badge&logo=appveyor&logoColor=white)]
+[![Role](https://img.shields.io/badge/Role-Enterprise%20Tech%20Leader-00BFFF?style=for-the-badge&logo=visual-studio-code&logoColor=white)]
+[![Mode](https://img.shields.io/badge/Mode-Ultra%20Premium-DA70D6?style=for-the-badge&logo=github&logoColor=white)]
+
+</div>
+
+---
+
+## 🎯 About Me
+
+<div align="center">
+
+<p style="font-size:1.1rem;color:#c9d1d9;max-width:860px;margin:auto;line-height:1.7;">
+I craft enterprise-grade AI, healthcare, and blockchain products with a premium focus on performance, security, and real-world impact. My work blends intelligent automation, cloud-native architecture, and trusted engineering to deliver market-ready solutions.
+</p>
+
+</div>
+
+<div align="center" style="margin-top:20px;">
+
+[![Premium Impact](https://img.shields.io/badge/Premium%20Impact-High%20Value-5A31F4?style=for-the-badge&logo=google-chrome&logoColor=white)]
+[![Secure](https://img.shields.io/badge/Secure-Enterprise%20Ready-00A3E0?style=for-the-badge&logo=lock&logoColor=white)]
+[![Scale](https://img.shields.io/badge/Scale-Cloud%20First-28A745?style=for-the-badge&logo=aws&logoColor=white)]
+[![Design](https://img.shields.io/badge/Design-UX%20Driven-FCA311?style=for-the-badge&logo=figma&logoColor=white)]
 
 </div>
 
