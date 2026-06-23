@@ -1,30 +1,24 @@
-<div align="center" style="background:#0d1117;border:1px solid #30363d;border-radius:28px;padding:28px 24px;margin-bottom:24px;max-width:980px;">
-
-<h1 style="margin:0;color:#f0f6fc;font-size:2.4rem;line-height:1.05;">👋 HI THERE ! , I'M INBASEKARAN</h1>
-
-<p style="margin:12px auto 0;color:#8b949e;font-size:1rem;letter-spacing:0.12em;max-width:640px;">
-<strong style="color:#ffffff;">AI DEVELOPER</strong> | AI ENGINEER | AI GENERALIST | FULL STACK DEVELOPER
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Garamond&pause=1000&color=FFFFFF&center=true&vCenter=true&width=760&lines=👋+HI+THERE+!+I'M+INBASEKARAN;AI+DEVELOPER+%7C+AI+ENGINEER+%7C+AI+GENERALIST+%7C+FULL+STACK+DEVELOPER" alt="Hi there! I'm INBASEKARAN" />
 </p>
 
-<p style="margin:18px auto 0;color:#c9d1d9;font-size:1rem;max-width:700px;line-height:1.7;">
-Crafting premium AI systems, scalable full-stack platforms, and intelligent product experiences.
+<p align="center" style="margin-top:16px;color:#8b949e;max-width:700px;line-height:1.7;">
+  Crafting premium AI systems, scalable full-stack platforms, and intelligent product experiences.
 </p>
 
-<div style="margin:24px auto 0;display:flex;justify-content:center;flex-wrap:wrap;gap:10px;max-width:760px;">
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:in5904@srmist.edu.in)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/inbasekaran)
-[![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Inbasekaran12)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Inbasekaran12)
-</div>
+<p align="center" style="margin:22px 0 8px;">
+  <a href="mailto:in5904@srmist.edu.in"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" /></a>
+  <a href="https://linkedin.com/in/inbasekaran"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" /></a>
+  <a href="https://github.com/Inbasekaran12"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" /></a>
+  <a href="https://twitter.com/Inbasekaran12"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" /></a>
+</p>
 
-<div style="margin:24px auto 0;display:flex;justify-content:center;flex-wrap:wrap;gap:10px;max-width:760px;">
-[![Brick-1](https://img.shields.io/badge/Brick%201-Innovate-FF0000?style=for-the-badge&logo=lego&logoColor=white)]
-[![Brick-2](https://img.shields.io/badge/Brick%202-Engineered-0055A4?style=for-the-badge&logo=lego&logoColor=white)]
-[![Brick-3](https://img.shields.io/badge/Brick%203-Scaled-FFD500?style=for-the-badge&logo=lego&logoColor=black)]
-[![Brick-4](https://img.shields.io/badge/Brick%204-Trusted-009639?style=for-the-badge&logo=lego&logoColor=white)]
-</div>
-
-</div>
+<p align="center" style="margin-bottom:24px;">
+  <img src="https://img.shields.io/badge/Brick%201-Innovate-FF0000?style=for-the-badge&logo=lego&logoColor=white" alt="Brick 1" />
+  <img src="https://img.shields.io/badge/Brick%202-Engineered-0055A4?style=for-the-badge&logo=lego&logoColor=white" alt="Brick 2" />
+  <img src="https://img.shields.io/badge/Brick%203-Scaled-FFD500?style=for-the-badge&logo=lego&logoColor=black" alt="Brick 3" />
+  <img src="https://img.shields.io/badge/Brick%204-Trusted-009639?style=for-the-badge&logo=lego&logoColor=white" alt="Brick 4" />
+</p>
 
 ---
 
