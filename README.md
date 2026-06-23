@@ -1,39 +1,49 @@
-<div align="center" style="background:#09111f;border:1px solid #1f2937;border-radius:30px;padding:30px 22px;margin-bottom:24px;">
+<div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Garamond&pause=1000&color=FFDE00&center=true&vCenter=true&width=760&lines=👋+Hi+there!+I'm+INBASEKARAN+S;💻+Full-Stack+Developer;🤖+AI+%26+ML+Enthusiast;🏥+Healthcare+Tech+Expert;⛓️+Blockchain+Developer" alt="INBASEKARAN S" />
+# 👋 Hi there! I'm INBASEKARAN S
 
-<div style="margin-top:24px;display:flex;justify-content:center;flex-wrap:wrap;gap:10px;">
+![Hero](https://readme-typing-svg.herokuapp.com?font=Garamond&pause=1000&color=FFDE00&center=true&vCenter=true&width=760&lines=Premium+AI+%7C+Healthcare+Tech+%7C+Blockchain+Security)
+
+</div>
+
+<div align="center">
+
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:in5904@srmist.edu.in)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/inbasekaran)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Inbasekaran12)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Inbasekaran12)
+
 </div>
 
-<div style="margin-top:24px;display:flex;justify-content:center;flex-wrap:wrap;gap:10px;">
+<div align="center">
+
 [![Brick-1](https://img.shields.io/badge/Brick%201-Innovate-FF0000?style=for-the-badge&logo=lego&logoColor=white)]
 [![Brick-2](https://img.shields.io/badge/Brick%202-Engineered-0055A4?style=for-the-badge&logo=lego&logoColor=white)]
 [![Brick-3](https://img.shields.io/badge/Brick%203-Scaled-FFD500?style=for-the-badge&logo=lego&logoColor=black)]
 [![Brick-4](https://img.shields.io/badge/Brick%204-Trusted-009639?style=for-the-badge&logo=lego&logoColor=white)]
-</div>
 
 </div>
+
+---
 
 ## 🎯 About Me
 
-<div align="center" style="background:#08101c;border:1px solid #1f2937;border-radius:24px;padding:26px 24px;margin-bottom:24px;">
+> I craft enterprise-grade AI, healthcare, and blockchain products with a premium focus on performance, security, and real-world impact.
+>
+> My work blends intelligent automation, cloud-native architecture, and trusted engineering to deliver market-ready solutions.
+>
+> `AI · Cloud-native Architecture · Secure Systems · Smart Healthcare · Blockchain Security`
 
-<p style="font-size:1.1rem;color:#d1d5db;max-width:860px;margin:auto;line-height:1.75;font-family:Garamond,serif;">
-I craft enterprise-grade AI, healthcare, and blockchain products with a premium focus on performance, security, and real-world impact. My work blends intelligent automation, cloud-native architecture, and trusted engineering to deliver market-ready solutions.
-</p>
+<div align="center">
 
-<div style="margin-top:20px;display:flex;justify-content:center;flex-wrap:wrap;gap:10px;">
 [![Premium Impact](https://img.shields.io/badge/Premium%20Impact-High%20Value-5A31F4?style=for-the-badge&logo=google-chrome&logoColor=white)]
 [![Secure](https://img.shields.io/badge/Secure-Enterprise%20Ready-00A3E0?style=for-the-badge&logo=lock&logoColor=white)]
 [![Scale](https://img.shields.io/badge/Scale-Cloud%20First-28A745?style=for-the-badge&logo=aws&logoColor=white)]
 [![Design](https://img.shields.io/badge/Design-UX%20Driven-FCA311?style=for-the-badge&logo=figma&logoColor=white)]
-</div>
 
 </div>
+
+---
 
 ---
 
